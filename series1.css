@@ -1,0 +1,73 @@
+body{
+    background:linear-gradient(purple,red);
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+nav{
+    width: 100%;
+    padding: 1rem 5%;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    font-size: 1.8rem;
+    font-weight: 700;
+    color:rgb(230, 235, 235);
+    letter-spacing: 1px;
+    padding: 10px;
+}
+.nav-bar{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    align-self: center;
+    color: aliceblue;
+    margin-left: -80%;
+}
+.main{
+    margin-top: 12%;
+    display: flex;
+    align-items: center;
+    font-size: 5rem;
+    color: aliceblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 30%;
+}
+.middle{
+    margin-top: 2%;
+    display: flex;
+    align-items:center;
+    color: aliceblue;
+    margin-left: 30%;
+}
+.btn{
+    display: flex;
+    align-self: center;
+    margin-left: 45%;
+    margin-top: 2%;
+    gap:10px;
+    padding: 0.5rem 1.5rem;
+    border-radius: 30px;
+    font-weight: 600;
+    background:transparent(100%);
+    text-decoration: none;
+    color: rgb(9, 1, 35);
+    box-shadow: 0 0 15px turquoise;
+    border: none;
+    cursor: pointer;
+   
+}
+.btn:hover{
+    background-color: rgb(10, 231, 234);
+    box-shadow: 0 0 25px rgb(6, 215, 248);
+}
+.btn a{
+    text-decoration: none;
+    color: rgb(6, 12, 17);
+}
+

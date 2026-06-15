@@ -1,0 +1,113 @@
+
+.header{
+    color: rgb(182, 13, 64);
+    text-align: center;
+    margin-top: 4.5%;
+    font-size: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+}
+.sub{
+    text-align: center;
+    font-size: 1.2rem;
+    word-spacing: 8px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+    /* display: flex; */
+    margin-top: 3%;
+    margin-left: 120px;
+    padding: 10px 50px;
+    background:white;
+    color:rgb(182, 13, 64);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    border:2px solid rgb(182, 13, 64);
+    cursor: pointer;
+}
+.btn:hover{
+    background:rgb(182, 13, 64);
+    color:white;
+}
+.next img{
+    margin-top: -15%;
+    margin-left:45%;
+    height: 25vh;
+    width: 15%;
+}
+.much{
+    color: rgb(182, 13, 64);
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 2%;
+    margin-left: 15%;
+}
+.upper{
+    border: 2px solid black;
+}
+.upper img{
+    margin-top: 2%;
+    /* margin-right: 15%; */
+    padding: 10px 55px;
+    height: 25vh;
+    width: 25%;
+}
+ .extra{
+    color: rgb(182, 13, 64);
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 2%;
+    margin-right: 55%;
+}
+.upper img{
+    margin-top: 2%;
+    margin-left: 7.5%;
+    height: 25vh;
+    width: 25%;
+}
+.extra{
+    color: rgb(182, 13, 64);
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 2%;
+    margin-left: 15%;
+}
+.upper img{
+    margin-top: 2%;
+    margin-left: 7.5%;
+    height: 25vh;
+    width: 25%;
+}
+.extra{
+    color: rgb(182, 13, 64);
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 2%;
+    margin-left: 15%;
+}
+.upper img{
+    margin-top: 2%;
+    margin-left: 7.5%;
+    height: 25vh;
+    width: 25%;
+}
+.extra{
+    color: rgb(182, 13, 64);
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 2%;
+    margin-left: 15%;
+}
+.upper img{
+    margin-top: 2%;
+    margin-left: 7.5%;
+    height: 25vh;
+    width: 25%;
+}
+.extra{
+    color: rgb(182, 13, 64);
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 2%;
+    margin-left: 15%;
+}
