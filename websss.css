@@ -1,0 +1,84 @@
+body{
+    background:  rgb(12, 1, 24);
+}
+.card{
+    align-content: center;
+    margin-top: 100px;
+    min-height:800px;
+    width: 600px;
+    background: linear-gradient(to bottom,transparent,rgba(47, 167, 236, 0.9));
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgb(7, 163, 254);
+
+}
+.top{
+color: rgb(10, 254, 254);
+align-items:calc(top(50px));
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 6rem;
+font-weight: 700;
+text-shadow: 0 0 20px rgb(51, 121, 121);
+}
+.top:hover{
+    color: rgb(5, 240, 240);
+    text-shadow: 0 0 30px rgb(53, 241, 241);
+    cursor: pointer;
+}
+.bottom input{
+    height:8%;
+    width: 70%;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    background: aquamarine;
+    color: rgb(1, 21, 19);
+    border: none;
+    border-radius: 5px;
+
+}
+.bottom{
+    padding: 10px;
+    border-radius: 5%;
+}
+.btn{
+    padding: 15px;
+    height: 5%;
+    width: 25%;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    background: rgb(9, 237, 161);
+    box-shadow: 0 0 25px rgb(15, 247, 247);
+    padding: 5px;
+    
+
+}
+.btn:hover{
+    box-shadow: 0 0 30px rgb(104, 102, 248);
+    background: rgb(5, 139, 242);
+    cursor: pointer;
+}
+.btns{
+    padding: 10px;
+    
+}
+
+.bto{
+    padding: 5px;
+    height: 5%;
+    width: 25%;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    background: rgb(9, 237, 161);
+    box-shadow: 0 0 25px rgb(15, 247, 247);
+    padding: 5px;
+    
+
+}
+.bto:hover{
+    box-shadow: 0 0 30px rgb(104, 102, 248);
+    background: rgb(5, 139, 242);
+    cursor: pointer;
+}
